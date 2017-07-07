@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DbExcelSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No Name||0||10.108.90.28||RadioServer||logStat||rujv6hpl^9igpHo</Value>
+    </Setting>
+    <Setting Name="DbTNGSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No Name||0||10.108.255.72||TrackNumberGenerator||logStat||rujv6hpl^9igpHo</Value>
+    </Setting>
+    <Setting Name="Source" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MOTOTRBO</Value>
+    </Setting>
+    <Setting Name="Iden" Type="System.String" Scope="User">
+      <Value Profile="(Default)">70</Value>
+    </Setting>
+    <Setting Name="Owner" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5.5.5.5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
